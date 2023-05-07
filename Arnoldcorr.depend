@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1682543093 source:c:\users\08you\desktop\arnoldcorrv\arnoldcorr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stb_image/stb_image.h"
+	"stb_image/stb_image_write.h"
+
+1560206013 c:\users\08you\desktop\arnoldcorrv\arnoldcorr\stb_image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1560206013 c:\users\08you\desktop\arnoldcorrv\arnoldcorr\stb_image\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
